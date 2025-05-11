@@ -1,1 +1,17 @@
-Este é meu primeiro repositório!
+# Meu Repositório de Projetos
+
+Este repositório contém projetos acadêmicos e pessoais com o objetivo de compor meu portfólio profissional. Também serve como prática das melhores técnicas de versionamento, documentação e colaboração com Git e GitHub.
+
+## ✨ Estrutura do Repositório
+
+- `projetos-academicos/`: Projetos desenvolvidos durante a minha formação acadêmica.
+- `projetos-pessoais/`: Projetos que desenvolvi por iniciativa própria.
+- `documentacao/`: Arquivos com anotações, planejamentos e instruções úteis.
+
+## 💡 Objetivo
+
+Organizar e expor meus trabalhos de forma clara e profissional, facilitando o compartilhamento com professores, colegas e oportunidades futuras.
+
+## 🔗 Integração com Plataformas
+
+O repositório está conectado ao meu perfil do LinkedIn e será atualizado com novos projetos e melhorias constantes.
